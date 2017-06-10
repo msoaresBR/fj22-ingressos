@@ -29,7 +29,4 @@ public class DescontoTest {
 		assertEquals(precoEsperado, ingresso.getPreco());
 	}
 	
-	@Test
-	
-
 }
